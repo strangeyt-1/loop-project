@@ -1,0 +1,43 @@
+.vrman img{
+    width: 600px;
+    height: 400px;
+    margin-top: 100px;
+    margin-left: 100px;
+    
+}
+.leader{
+    text-align: left;
+    width: 500px;
+    margin-left:-130px;
+    background-color: white;
+    padding-left: 20px;
+    margin-top: 200px;
+}
+.leader h1{
+    font-size: 2em;
+    font-weight: 100;
+}
+.shekau{
+    display: flex;
+}
+.our h1{
+    font-size: 2em;
+    font-weight: 100;
+    padding-left: 100px;
+}
+.our{
+    display: flex;
+    margin-top: 50px;
+}
+.btn{
+    margin-left:650px;
+    margin-top: 20px;
+    width: 150px;
+    height: 40px;
+    background-color: white;
+    border-radius: 1px;
+    border: 2px solid
+}
+.MAN{
+    margin-left:90px;
+}
